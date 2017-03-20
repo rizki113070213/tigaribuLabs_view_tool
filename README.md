@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+TigaribuLabsViewTool::Renderer.copyright '3000Labs', 'All rights reserved'
+```
 
 ## Development
 
